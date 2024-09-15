@@ -12,7 +12,7 @@ For a regular pet owner, the Veterinary AI Assistant could serve as an invaluabl
 - Pet owners can use the system to get quick, evidence-based answers to common health-related questions about their pets. For example, they can ask, “What are the signs of diabetes in dogs?” or “What home remedies can I use for my cat’s arthritis?”
 -  The system will provide information pulled from veterinary-approved sources, helping owners make informed decisions about their pets' well-being.
 
-  ### 2- Holistic Care Suggestions:
+### 2- Holistic Care Suggestions:
 
   - Many pet owners today are interested in alternative therapies like herbal medicine or acupuncture for their pets. The AI Assistant includes holistic options, allowing owners to explore treatments beyond conventional medicine.
   - Example query: “Are there any herbal remedies for canine anxiety?”
