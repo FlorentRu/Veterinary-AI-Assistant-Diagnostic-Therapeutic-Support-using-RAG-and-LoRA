@@ -1,4 +1,4 @@
-# Veterinary-AI-Assistant-Diagnostic-Therapeutic-Support-using-RAG-and-LoRA
+# Veterinary AI Assistant Diagnostic Therapeutic Support using RAG and LoRA
 
 ## Overview
 Veterinary AI Assistant is a domain-specific AI-powered system designed to assist veterinarians in clinical decision-making. This tool leverages Retrieval-Augmented Generation (RAG) and Low-Rank Adaptation (LoRA) to provide accurate, evidence-based answers and treatment recommendations. It combines conventional veterinary medicine with holistic approaches such as acupuncture, herbal medicine, and nutrition.
