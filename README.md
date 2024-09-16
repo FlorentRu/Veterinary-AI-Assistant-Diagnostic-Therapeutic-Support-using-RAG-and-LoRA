@@ -107,7 +107,7 @@ From a business perspective, the Veterinary AI Assistant offers several signific
 
 ### 1 - Clone the repository:
 
-git clone https://github.com/FlorentRu/veterinary-ai-assistant.git
+git clone 
 cd veterinary-ai-assistant
 
 ### 2 - Install dependencies:
